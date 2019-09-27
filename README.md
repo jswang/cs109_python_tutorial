@@ -2,7 +2,7 @@
 
 
 
-Go to this jupyter notebook to read through the tutorial! https://github.com/sjohnsonyu/cs109_python_tutorial/blob/master/cs109_python_tutorial.ipynb
+**Go to this jupyter notebook to read through the tutorial! https://github.com/sjohnsonyu/cs109_python_tutorial/blob/master/cs109_python_tutorial.ipynb**
 
 Occasionally GitHub has trouble rendering jupyter notebooks in static HTML. If it's not loading, you can use this link instead:
 http://htmlpreview.github.com/?https://github.com/sjohnsonyu/cs109_python_tutorial/blob/master/cs109_python_tutorial.html
